@@ -911,12 +911,12 @@ body.is-instant:after {
 }
 
 .buttons.btSuperiores .button {
-    background-color: #FFFFFF;
-    color: rgba(0, 0, 0, 0.761);
+    background-color: #E8DDB5;
+    color: rgba(232, 221, 181, 1);
 }
 
 .buttons.btSuperiores .button:hover {
-    background-color: #DBDBDB !important;
+    background-color: #F6EFD3 !important;
 }
 
 .buttons.btPrincipais {
@@ -966,12 +966,12 @@ body.is-instant:after {
 }
 
 .buttons.btPrincipais .button {
-    background-color: #FFFFFF;
-    color: rgba(0, 0, 0, 0.761);
+    background-color: #E8DDB5;
+    color: rgba(232, 221, 181, 1);
 }
 
 .buttons.btPrincipais .button:hover {
-    background-color: #FFFFFF !important;
+    background-color: #F6EFD3 !important;
 }
 
 .buttons.btPrincipais li a:hover {
